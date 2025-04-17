@@ -1,5 +1,7 @@
-## Hi there 👋
+![Header](https://github.com/user-attachments/assets/623a1af6-2693-4896-817d-2b0429dade98)
 
+## Hi there 👋
+- 📫 How to reach me: dylanrose.sa@gmail.com
 <!--
 **Ctrl-Alt-Tea/Ctrl-Alt-Tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
