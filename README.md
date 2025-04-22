@@ -2,6 +2,11 @@
 
 ## Hi there 👋
 - 📫 How to reach me: dylanrose.sa@gmail.com
+- 🧑‍💻 Refund wizard by day, QR Code summoner by night.
+- 🐞 Occasionally befriends bugs.
+- 🪄 Built a refund app that politely asks money to go back.
+- 🛠️ Pressing buttons until it works™.
+- 🐛 Will code for compliments (and coffee).
 <!--
 **Ctrl-Alt-Tea/Ctrl-Alt-Tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
